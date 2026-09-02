@@ -1,7 +1,7 @@
 # EX NO 1: Cloud-account-set-up-and-services
 
-### Name : SOMESHWAR S
-### Reg no: 212224040322
+### Name : SIMSON ROY J
+### Reg no: 212225040415
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
